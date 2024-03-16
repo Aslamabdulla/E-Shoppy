@@ -53,3 +53,5 @@ For further assistance with Flutter development, refer to the following resource
 - [Firebase Documentation](https://firebase.google.com/docs): Official documentation for Firebase services, including Authentication and Firestore.
 - [Hive Documentation](https://docs.hivedb.dev/): Documentation for Hive DB, a lightweight and fast NoSQL database for Flutter.
 - [FakeStore API Documentation](https://fakestoreapi.com/docs): Documentation for the FakeStore API used for fetching product data.
+
+

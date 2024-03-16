@@ -1,7 +1,7 @@
 import 'dart:developer';
 import 'package:e_shoppy/app/modules/auth/controller/auth_controller/auth_controller.dart';
 import 'package:e_shoppy/app/modules/auth/controller/bear_controller/bear_log_in_controller.dart';
-import 'package:e_shoppy/app/modules/auth/sign_uo/view/widgets/sign_up_form.dart';
+import 'package:e_shoppy/app/modules/auth/view/sign_uo/view/widgets/sign_up_form.dart';
 import 'package:e_shoppy/app/modules/auth/view/widgets/background_widget.dart';
 import 'package:e_shoppy/app/modules/auth/view/widgets/logo_text_widget.dart';
 import 'package:e_shoppy/app/modules/auth/view/widgets/sign_up_text.dart';

@@ -1,6 +1,6 @@
-import 'package:e_shoppy/app/modules/auth/login/bindings/login_binding.dart';
-import 'package:e_shoppy/app/modules/auth/sign_uo/view/sign_up_screen.dart';
-import 'package:e_shoppy/app/modules/auth/view/login_screen.dart';
+import 'package:e_shoppy/app/modules/auth/bindings/login_binding.dart';
+import 'package:e_shoppy/app/modules/auth/view/sign_uo/view/sign_up_screen.dart';
+import 'package:e_shoppy/app/modules/auth/view/login/login_screen.dart';
 import 'package:e_shoppy/app/modules/splash/views/splash_view.dart';
 import 'package:get/get.dart';
 

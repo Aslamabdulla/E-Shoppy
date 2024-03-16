@@ -12,12 +12,15 @@ class AppLogoWidget extends StatelessWidget {
       TextSpan(children: [
         TextSpan(
           text: 'E-',
-          style: theme.textTheme.displayMedium
-              ?.copyWith(color: theme.primaryColor, fontSize: 18.sp),
+          style: theme.textTheme.displayMedium?.copyWith(
+              color: theme.primaryColor,
+              fontSize: 18.sp,
+              fontWeight: FontWeight.bold),
         ),
         TextSpan(
           text: 'Shoppy',
-          style: theme.textTheme.bodyMedium?.copyWith(fontSize: 18.sp),
+          style: theme.textTheme.bodyMedium
+              ?.copyWith(fontSize: 18.sp, fontWeight: FontWeight.bold),
         ),
       ]),
     );
